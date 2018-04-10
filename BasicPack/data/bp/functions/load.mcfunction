@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"\n"},{"text":"[BasicPack]","color":"dark_blue","bold":true,"clickEvent":{"action":"open_url","value":"http://is.gd/HerrFrau"},"hoverEvent":{"action":"show_text","value":["",{"text":"Joine gerne dem offiziellen Basicpack ","color":"dark_blue"},{"text":"Discord","color":"blue"},{"text":"!","color":"dark_blue"}]}},{"text":" "},{"text":"Reload successful.","color":"blue"},{"text":"\n"}]
+function bp:scoresinit
